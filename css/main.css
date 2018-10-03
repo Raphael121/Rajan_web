@@ -95,6 +95,14 @@ ul li {
 
 	margin: 40px 0 0 100px;
 }
+.padding {
+
+	margin: 5px 0 0 100px;
+}
+.paddingA {
+
+	margin: 10px 0 0 100px;
+}
 .embed-container {
   position: relative;
   padding-bottom: 56.25%;
